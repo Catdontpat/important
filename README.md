@@ -1,1 +1,3 @@
-# important
+# DON'T MAKE YOUR CODE COMPLICATED TO THE POINT IT'S UNREADABLE
+
+very simple, don't.
